@@ -12,6 +12,9 @@ import {
   View
 } from 'react-native';
 
+/**
+ * example-2
+ */
 export default class RN_StackNavigatorExample extends Component {
   render() {
     return (
